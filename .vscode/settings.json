@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "string": "c",
+        "iosfwd": "c",
+        "stdio.h": "c",
+        "__string": "c",
+        "algorithm": "c",
+        "functional": "c"
+    }
+}
